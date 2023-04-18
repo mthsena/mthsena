@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a) 👋
 
-### 🚀 Sobre mim
+### 🚀 About me
 A tecnologia faz parte da minha vida desde que me entendo por gente. Sou desenvolvedor de software, e através de pesquisas e estudos, nessa área que tanto aspiro, eu busco trazer metodologias e boas práticas de programação cada vez melhores.
 
 ### 🛠 Skills
